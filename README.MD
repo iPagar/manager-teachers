@@ -5,13 +5,13 @@
 - Методы для оценки, комментариев
 
 ##### Установка
-`npm i manager-teachers`
+`npm i iPagar/manager-teachers`
 
 ##### Пакеты
 Sequielize для базы данных, Jest для тестирования
 
 ##### Требования
-Переменные окружения: .
+Переменные окружения:
 - DB_DATABASE
 - DB_USER
 - DB_PASSWORD
